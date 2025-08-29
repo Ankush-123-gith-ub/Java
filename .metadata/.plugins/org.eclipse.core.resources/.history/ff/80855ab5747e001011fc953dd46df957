@@ -1,0 +1,30 @@
+package myfirstpackage;
+class car{
+	
+	String model;
+	int year;
+	
+	// method to display
+	void display() {
+		System.out.println("Model = "+ model + ", Year = " + year);
+	}
+
+	public static void main(String args[]){
+		
+		// first object
+		car car1 = new car();
+		car1.model = "Toyota";
+		car1.year = 1999;
+		
+		//second object
+		car car2 = new car();
+		car2.model = "Supra";
+		car2.year = 1997;
+		
+		// to call out function
+		car1.display();
+		car2.display();
+		
+	}
+	
+}
