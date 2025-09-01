@@ -19,6 +19,7 @@ class q10 {
         System.out.println("by built in method: "+s);
         System.out.println("by user define method: "+all_lower(s));
         System.out.println(s.equals(all_lower(s)));
+        sc.close();
 
 
     }

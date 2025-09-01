@@ -17,5 +17,6 @@ class q4 {
     public static  void main(String args[]){
         // generate_exception();
         handle_exception();
+        
     }
 }

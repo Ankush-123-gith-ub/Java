@@ -19,7 +19,7 @@ class q9 {
         System.out.println("by built in method: "+s);
         System.out.println("by user define method: "+all_upper(s));
         System.out.println(s.equals(all_upper(s)));
-
+        sc.close();
 
     }
 }

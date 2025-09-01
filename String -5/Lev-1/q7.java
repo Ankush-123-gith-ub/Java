@@ -19,6 +19,8 @@ class q7 {
         String str = sc.nextLine();
         // generate_exception(str);
         handle_exception(str);
+        sc.close();
+        
 
     }
 }

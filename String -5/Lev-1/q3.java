@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.Arrays;
 class q3 {
     public static char[] string_array(String text) {
        char[] cahracter = new char[text.length()];
@@ -21,7 +20,6 @@ class q3 {
         }
         System.out.println(Arrays.toString(temparr));
         System.out.println(Arrays.toString(string_array(text)));
-
-
+        sc.close();
     }
 }

@@ -11,6 +11,7 @@ public class q2 {
         }
         System.out.println(sub);
         System.out.println(str.substring(strt,end));;
+        sc.close();
 
     }
 }

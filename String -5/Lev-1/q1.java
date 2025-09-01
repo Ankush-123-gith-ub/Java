@@ -31,6 +31,7 @@ public class q1 {
     else{
         System.out.println("String is not same with Stringequals.");
     }
+    sc.close();
    
 }
 }
