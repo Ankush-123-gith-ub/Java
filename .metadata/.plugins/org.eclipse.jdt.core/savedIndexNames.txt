@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Asus\Documents\cyber-sb\oops\.metadata\.plugins\org.eclipse.jdt.core
-1172168916.index
-1865797976.index
-3926276959.index
