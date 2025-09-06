@@ -1,0 +1,11 @@
+Total files scanned: 9
+Safe files: 9
+Infected files: 0
+
+File types detected:
+    jpg: 3
+    pdf: 3
+    png: 2
+
+Infected files:
+[WARNING] png: extension .exe does not match detected type unknown
